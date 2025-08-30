@@ -1,0 +1,10 @@
+{
+  "name": "Residual_Hunger",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/FancyDucc/ResidualHunger",
+  "description": "Adds a reserve 'Residual Hunger' bar that stores extra food until hunger actually caps stamina.",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.2403",
+    "PEAKModding-PEAKLib_Core-1.5.1"
+  ]
+}
